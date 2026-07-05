@@ -50,10 +50,6 @@ The investigation is based on multiple forensic evidence sources, including:
 - PowerShell
 - jq
 - awk
-- grep
-- cut
-- tr
-- uniq
 
 ### Threat Intelligence
 - VirusTotal
