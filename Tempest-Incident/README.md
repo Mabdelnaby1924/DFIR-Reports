@@ -1,5 +1,5 @@
 
-# Tempest2 DFIR Investigation
+# Tempest DFIR Investigation
 
 A hands-on **Digital Forensics & Incident Response (DFIR)** case study documenting the investigation of a simulated Windows compromise.
 
